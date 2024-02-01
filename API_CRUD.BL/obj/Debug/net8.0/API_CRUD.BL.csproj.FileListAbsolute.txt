@@ -1,0 +1,28 @@
+D:\Practice For Github\API_CRUD\API_CRUD.BL\bin\Debug\net8.0\API_CRUD.BL.deps.json
+D:\Practice For Github\API_CRUD\API_CRUD.BL\bin\Debug\net8.0\API_CRUD.BL.runtimeconfig.json
+D:\Practice For Github\API_CRUD\API_CRUD.BL\bin\Debug\net8.0\API_CRUD.BL.dll
+D:\Practice For Github\API_CRUD\API_CRUD.BL\bin\Debug\net8.0\API_CRUD.BL.pdb
+D:\Practice For Github\API_CRUD\API_CRUD.BL\obj\Debug\net8.0\API_CRUD.BL.csproj.AssemblyReference.cache
+D:\Practice For Github\API_CRUD\API_CRUD.BL\obj\Debug\net8.0\API_CRUD.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice For Github\API_CRUD\API_CRUD.BL\obj\Debug\net8.0\API_CRUD.BL.AssemblyInfoInputs.cache
+D:\Practice For Github\API_CRUD\API_CRUD.BL\obj\Debug\net8.0\API_CRUD.BL.AssemblyInfo.cs
+D:\Practice For Github\API_CRUD\API_CRUD.BL\obj\Debug\net8.0\API_CRUD.BL.csproj.CoreCompileInputs.cache
+D:\Practice For Github\API_CRUD\API_CRUD.BL\obj\Debug\net8.0\API_CRUD.BL.dll
+D:\Practice For Github\API_CRUD\API_CRUD.BL\obj\Debug\net8.0\refint\API_CRUD.BL.dll
+D:\Practice For Github\API_CRUD\API_CRUD.BL\obj\Debug\net8.0\API_CRUD.BL.pdb
+D:\Practice For Github\API_CRUD\API_CRUD.BL\obj\Debug\net8.0\API_CRUD.BL.genruntimeconfig.cache
+D:\Practice For Github\API_CRUD\API_CRUD.BL\obj\Debug\net8.0\ref\API_CRUD.BL.dll
+D:\Practice For Github\API CRUD With Repository Patern\API_CRUD.BL\bin\Debug\net8.0\API_CRUD.BL.deps.json
+D:\Practice For Github\API CRUD With Repository Patern\API_CRUD.BL\bin\Debug\net8.0\API_CRUD.BL.runtimeconfig.json
+D:\Practice For Github\API CRUD With Repository Patern\API_CRUD.BL\bin\Debug\net8.0\API_CRUD.BL.dll
+D:\Practice For Github\API CRUD With Repository Patern\API_CRUD.BL\bin\Debug\net8.0\API_CRUD.BL.pdb
+D:\Practice For Github\API CRUD With Repository Patern\API_CRUD.BL\obj\Debug\net8.0\API_CRUD.BL.csproj.AssemblyReference.cache
+D:\Practice For Github\API CRUD With Repository Patern\API_CRUD.BL\obj\Debug\net8.0\API_CRUD.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice For Github\API CRUD With Repository Patern\API_CRUD.BL\obj\Debug\net8.0\API_CRUD.BL.AssemblyInfoInputs.cache
+D:\Practice For Github\API CRUD With Repository Patern\API_CRUD.BL\obj\Debug\net8.0\API_CRUD.BL.AssemblyInfo.cs
+D:\Practice For Github\API CRUD With Repository Patern\API_CRUD.BL\obj\Debug\net8.0\API_CRUD.BL.csproj.CoreCompileInputs.cache
+D:\Practice For Github\API CRUD With Repository Patern\API_CRUD.BL\obj\Debug\net8.0\API_CRUD.BL.dll
+D:\Practice For Github\API CRUD With Repository Patern\API_CRUD.BL\obj\Debug\net8.0\refint\API_CRUD.BL.dll
+D:\Practice For Github\API CRUD With Repository Patern\API_CRUD.BL\obj\Debug\net8.0\API_CRUD.BL.pdb
+D:\Practice For Github\API CRUD With Repository Patern\API_CRUD.BL\obj\Debug\net8.0\API_CRUD.BL.genruntimeconfig.cache
+D:\Practice For Github\API CRUD With Repository Patern\API_CRUD.BL\obj\Debug\net8.0\ref\API_CRUD.BL.dll
